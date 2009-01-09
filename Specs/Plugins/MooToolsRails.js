@@ -6,7 +6,7 @@ License:
 	MIT-style license.
 */
 
-describe('PluginName', {
+describe('MooToolsRails', {
 
 	'before all': function(){
 	},

@@ -27,11 +27,11 @@ var Builder = {
 	scripts: {
 		source: {
 			'../Demos': ['mootools'],
-			'Plugins' : ['PluginName']
+			'Plugins' : ['MooToolsRails']
 		},
 
 		specs: {
-			'Plugins' : ['PluginName']
+			'Plugins' : ['MooToolsRails']
 		}
 	},
 

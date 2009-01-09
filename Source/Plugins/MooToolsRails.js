@@ -1,6 +1,6 @@
 /*
-Script: PluginName.js
-    PluginName
+Script: MooToolsRails.js
+    MooToolsRails
 
 License:
 	MIT-style license.
@@ -9,7 +9,7 @@ Copyright:
 	Copyright (c) 2009 [copyright holders](http://).
 
 */
-var PluginName = new Class({
+var MooToolsRails = new Class({
 	
 	Implements: [Options, Events],
 	
